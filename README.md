@@ -1,4 +1,4 @@
  # Stickman Badminton
-#### Video Demo:      https://youtu.be/Wa398fcZUDk
+#### Video Demo:      https://youtu.be/Wa398fcZUDk / https://youtu.be/QD9rhdHBaC0
 #### Description:   Stickman Badminton is an interesting two-player game created with Python and the Pygame structure. The game sets two stickman players against one other in a fast-paced badminton battle, with the goal of scoring points by hitting a shuttlecock past the opponent. Players use the keyboard to control their stickman figures, which they can move up and down to block, deflect, or strategically hit the shuttlecock. The UI is simple and straightforward, with a start menu, a countdown timer before matches, and scoring updates. The first person to reach three points is proclaimed the winner, with the option to restart the game or exit. Stickman Badminton is both fun and easy to play thanks to its simplistic graphics, intuitive controls, and competitive action.
 TODO
